@@ -1,11 +1,11 @@
 {
-    "name": "Finalmente",
-    "short_name": "Finalmente",
+    "name": "finalmente",
+    "short_name": "finalmente",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Cadápio digital do Finalmente.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
